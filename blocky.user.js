@@ -7,6 +7,7 @@
 // @run-at       document-start
 // @grant        none
 // @author       Eskrid
+// @license      MIT
 // ==/UserScript==
 (() => {
     'use strict';
